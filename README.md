@@ -1,8 +1,7 @@
 # relapse
 detects video activity window, records it and plays it backwards. max jitter opencv 
+this is the eyesweb version, circa 2005
 
-
-
-demo on ipwebcam android phone
-http://ip-webcam.appspot.com/
-https://github.com/bluezio/ipwebcam-gst/
+using eyesweb ver. 3.3.0
+http://www.infomus.org/eyesweb_ita.php
+http://i.imgur.com/KvV01ek.png
